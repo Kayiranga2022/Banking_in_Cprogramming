@@ -77,7 +77,10 @@ Modular separation helps isolate functionality (accounts, transactions, data lay
 📝 License
 This project is open-source and free to use under the MIT License.
 
-pgsql
-Copy
-Edit
+👨‍💻 Author
+Kayiranga Ernest
+📍 Kigali, Rwanda
+🌐 LinkedIn
+📧 kayinesta23@gmail.com
+
 
