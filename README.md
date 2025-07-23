@@ -74,3 +74,10 @@ File I/O functions (fopen, fread, fwrite) manage data persistence.
 The main flow uses a looped menu system to guide user actions until exit.
 
 Modular separation helps isolate functionality (accounts, transactions, data layer).
+📝 License
+This project is open-source and free to use under the MIT License.
+
+pgsql
+Copy
+Edit
+
